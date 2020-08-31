@@ -1,4 +1,4 @@
-<h1><a href = "https://www.acmicpc.net/problem/2908">2908 - 상수</a></h1>
+<h1><a href = "https://www.acmicpc.net/problem/2908">2908</a> - 상수</h1>
 
 입력받은 문자에서, 각 문자에 아스키 코드 '0' 을 빼면 정수가 된다는 방법을 이용했습니다.
 
