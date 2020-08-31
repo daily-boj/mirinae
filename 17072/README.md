@@ -1,4 +1,4 @@
-#<a href="https://www.acmicpc.net/problem/17072"> 17072</a> - 아스키 아트
+<h1><a href="https://www.acmicpc.net/problem/17072"> 17072</a> - 아스키 아트</h1>
 
 제가 가장 함수를 많이 쓴(?) 문제였습니다.
 재밌었습니다.
